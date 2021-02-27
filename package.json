@@ -1,0 +1,22 @@
+{
+  "name": "dafusion-cli",
+  "version": "1.0.0",
+  "description": "Cli command to speed up the creation of Fusion fuses",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rne1223/dafusion-cli.git"
+  },
+  "keywords": [
+    "Fusion",
+    "Davinci",
+    "Fuses",
+    "DCTL"
+  ],
+  "author": "rne1223",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rne1223/dafusion-cli/issues"
+  },
+  "homepage": "https://github.com/rne1223/dafusion-cli#readme"
+}
