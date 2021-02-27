@@ -1,7 +1,7 @@
 # Dafusion
 ~~~~
 
-A simple cli to help create Fusion fuses. Specially DCTL fuses
+A simple interactive cli tool to create Fusion fuses. Specially DCTL fuses.
 
 **Installation**
 npm install -g dafusion
